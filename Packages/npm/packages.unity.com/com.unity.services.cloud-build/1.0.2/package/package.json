@@ -1,0 +1,43 @@
+{
+  "name": "com.unity.services.cloud-build",
+  "displayName": "Cloud Build",
+  "version": "1.0.2",
+  "unity": "2022.1",
+  "_upm": {
+    "gameService": {
+      "groupIndex": 0,
+      "groupName": "DevOps",
+      "genericDashboardUrl": "https://unity3d.com/unity/features/cloud-build",
+      "projectDashboardUrl": "https://dashboard.unity3d.com/organizations/{0}/projects/{1}/cloud-build/about",
+      "projectDashboardUrlType": "OrganizationKeyAndProjectGuid",
+      "configurePath": "Project/Services/Cloud Build"
+    },
+    "supportedPlatforms": [
+      "Android",
+      "iOS",
+      "Linux",
+      "Mac",
+      "PC",
+      "WebGL",
+      "Windows 8 Universal",
+      "Windows 10 Universal"
+    ]
+  },
+  "description": "Integrate with Unity Cloud Build \n\nThis package provides services to build and distribute your applications.",
+  "dependencies": {
+    "com.unity.services.core": "1.0.1",
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  },
+  "type": "library",
+  "relatedPackages": {
+    "com.unity.services.cloud-build.tests": "1.0.2"
+  },
+  "upmCi": {
+    "footprint": "2a1af8ab412a1b979a7a40e5e1a5b89737e7453b"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git",
+    "type": "git",
+    "revision": "d476278d68180faf7d77d4664e756c8d52ee6b55"
+  }
+}
