@@ -1,0 +1,353 @@
+{
+  "_id": "com.unity.package-manager.metadata-2022.2",
+  "name": "com.unity.package-manager.metadata-2022.2",
+  "description": "Contains metadata used by the 2022.2 Unity Editor.",
+  "provider": "upm",
+  "category": "",
+  "dist-tags": {
+    "latest": "0.0.22"
+  },
+  "versions": {
+    "0.0.22": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "ab47ba0367bba1c01b9839afc94d192a467d648c"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "3ed939143af09c135d02a55c1ac5994c1d1e3c64"
+      },
+      "dist": {
+        "shasum": "35124e83be4eaead7a136bfef3a915147fc069d9",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.22.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.22",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": "",
+      "dependencies": {}
+    },
+    "0.0.20": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "88d159fe0ba9a1fb828d050b6847b1c013852d02"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "c2b5b710a4d4532e3f291717b8dea643d8d48c23"
+      },
+      "dist": {
+        "shasum": "7ec973f6bdeed120043b5c03b0113d8e2d7c4975",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.20.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.20",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": "",
+      "dependencies": {}
+    },
+    "0.0.17": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "88d7332c32b12f34f9c3a99201e07b494d0d18f0"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "88459d99afc5fefaa91a8fd484a2db795bd0f7bf"
+      },
+      "dist": {
+        "shasum": "d09cdbe3db1690ab43d5ec24abeb58a72f52ab04",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.17.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.17",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.16": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "7ef97abe4764c2bd39d1e461de95749de29ca7c9"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "4f88695d314aff63a2d370d0209fdea2e5e43494"
+      },
+      "dist": {
+        "shasum": "0b211689b4ac808d854928692f60b0318d8733fc",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.16.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.16",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.13": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "9c8c8c59e8132f2a973d72b9efde6aa22cedb89e"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "dc51f17ce17b7fba3f735c864a7fcf02531cc8b5"
+      },
+      "dist": {
+        "shasum": "21bc4a571b4dc65d777d07e2f5cf8581a67b0caf",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.13.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.13",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.12": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "cb84f5b984bf252987bc2b468ac8e256ec0136c3"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "55a1db8d4ee69b833e699e97bddb6da93993d3e0"
+      },
+      "dist": {
+        "shasum": "fb3dfc053e4b65df3dc18f7247829693c2f699a6",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.12.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.12",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.10": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "37deb52baea04406bf0d98e1843ebd3929445f6d"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "b3d892cf163a82bf04aa85e14f3c22a538f9e13d"
+      },
+      "dist": {
+        "shasum": "d169c6051e5a0bf70a410a1a9b37b4b54d8b508b",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.10.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.10",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.8": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "0e6d3f7ef6e3726a6e4097d38801b05f2c04b8e5"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "17cdb82ab274bc03aa93b9421a0cf740312f4a1f"
+      },
+      "dist": {
+        "shasum": "8e57c63d4b5b9cd2ded5c95af20f8fe25ea561ce",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.8.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.8",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.7": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "90886c9ca809906271a5e9eba90618e186c0bea4"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "50f59c7942e4a1f846f25270084288cb635b1a0d"
+      },
+      "dist": {
+        "shasum": "e5b18068bacf84a7de9991b4774c01aa5724a8d2",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.7.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.7",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.6": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "f86d2e2a3b04e86b67d305d176af7e0602155a21"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "fd8c28b5477d72cc1f372bec0d804d4ca03478c2"
+      },
+      "dist": {
+        "shasum": "b0733918b981fa6b271cdf681bcdfeffffc01c1b",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.6.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.6",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.5": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "c8f54b46337974173ae4db678627106e7f0cc136"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "fe3c72c70cb41aa31baa93f1c34f7926a8d63b86"
+      },
+      "dist": {
+        "shasum": "4033ab9d24ddaa3cb7d7c61846d9f8ae7ac74991",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.5.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.5",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.4": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "444c52e0453f2ae290cb56f8fc1b189d3c5c4430"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "960932defa94fd447f9a37430ebd089a9ac87227"
+      },
+      "dist": {
+        "shasum": "661bc01a846f2ab06c0917b64d08c98a93b83880",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.4.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.4",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.2": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "63fb6ba3ee63478b5065d0d8d75404ab2016fcec"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "833f95c8ef2a8bd42eb859f573f422c17f1eb144"
+      },
+      "dist": {
+        "shasum": "9c9358257f5edefc6e2952fa4dadeef623110f11",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.2.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.2",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    },
+    "0.0.1": {
+      "files": [
+        "manifest-overrides.json"
+      ],
+      "upmCi": {
+        "footprint": "70fc1699fd5ad6da8e8cad90102c3b9e955c4937"
+      },
+      "repository": {
+        "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+        "revision": "5bef5788f11de3ed071daf95e0336e7ef70c5590"
+      },
+      "dist": {
+        "shasum": "9e365c6d219119313a3a935125945fba38fbfc9a",
+        "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.1.tgz"
+      },
+      "name": "com.unity.package-manager.metadata-2022.2",
+      "version": "0.0.1",
+      "description": "Contains metadata used by the 2022.2 Unity Editor.",
+      "displayName": "",
+      "type": "metadata",
+      "host": "editor",
+      "category": ""
+    }
+  },
+  "etag": "\"2911308f849f26659faf0950f3c5a879\"",
+  "time": {
+    "0.0.22": "2023-06-20T17:57:35Z",
+    "0.0.20": "2023-06-06T09:04:11Z",
+    "0.0.17": "2023-05-23T00:50:13Z",
+    "0.0.16": "2023-05-17T16:07:18Z",
+    "0.0.13": "2023-05-09T12:29:29Z",
+    "0.0.12": "2023-04-26T20:47:39Z",
+    "0.0.10": "2023-04-24T12:15:16Z",
+    "0.0.8": "2023-03-16T16:41:29Z",
+    "0.0.7": "2023-03-13T17:07:22Z",
+    "0.0.6": "2023-03-09T17:34:48Z",
+    "0.0.5": "2023-03-07T11:06:09Z",
+    "0.0.4": "2023-01-11T12:16:25Z",
+    "0.0.2": "2022-12-07T20:55:32Z",
+    "0.0.1": "2022-12-06T15:34:25Z"
+  }
+}
