@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class PlayerLook : MonoBehaviour
 {
+    private CharacterController controller;
     public Camera cam;
     private float xRotation = 0f;
 
     public float xSensitivity = 30f;
     public float ySensitivity = 30f;
+
+    public float xSensitivityGamepad = 70f;
+    public float ySensitivityGamepad = 70f;
 
     public void ProcessLook(Vector2 input)
     {
@@ -22,4 +26,18 @@ public class PlayerLook : MonoBehaviour
         //rotate player to look left and right
         transform.Rotate(Vector3.up * (mouseX * Time.deltaTime) * xSensitivity);
     }
+
+    public void ProcessLockGamepad(Vector2 input)
+    {
+        float gamepadX = input.x;
+        float gamepadY = input.y;
+        //calculate camera rotation for looking up and down
+        xRotation -= (gamepadY * Time.deltaTime) * ySensitivityGamepad;
+        xRotation = Mathf.Clamp(xRotation, -80f, 80f);
+        //apply this to our camera transform.
+        cam.transform.localRotation = Quaternion.Euler(xRotation, 0, 0);
+        //rotate player to look left and right
+        transform.Rotate(Vector3.up * (gamepadX * Time.deltaTime) * xSensitivityGamepad);
+    }
+
 }
