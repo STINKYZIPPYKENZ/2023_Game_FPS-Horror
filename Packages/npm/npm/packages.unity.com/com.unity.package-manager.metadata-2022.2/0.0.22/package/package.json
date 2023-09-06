@@ -1,0 +1,28 @@
+{
+  "files": [
+    "manifest-overrides.json"
+  ],
+  "upmCi": {
+    "footprint": "ab47ba0367bba1c01b9839afc94d192a467d648c"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/rm-remote-upm-package-metadata",
+    "revision": "3ed939143af09c135d02a55c1ac5994c1d1e3c64"
+  },
+  "dist": {
+    "shasum": "35124e83be4eaead7a136bfef3a915147fc069d9",
+    "tarball": "https://download.packages.unity.com/com.unity.package-manager.metadata-2022.2/-/com.unity.package-manager.metadata-2022.2-0.0.22.tgz"
+  },
+  "name": "com.unity.package-manager.metadata-2022.2",
+  "version": "0.0.22",
+  "description": "Contains metadata used by the 2022.2 Unity Editor.",
+  "displayName": "",
+  "type": "metadata",
+  "host": "editor",
+  "category": "",
+  "dependencies": {},
+  "_time": "2023-06-20T17:57:35Z",
+  "entitlementsInfo": {
+    "licenseType": "public"
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "schemaVersion": 4,
+    "packages": {
+        "com.unity.services.mediation": {
+            "isDiscoverable": false
+        },
+        "com.unity.services.levelplay": {
+            "isDiscoverable": true,
+            "recommendedVersion": "1.0.0"
+        },
+        "com.unity.analytics": {
+            "isDiscoverable": false
+        },
+        "com.unity.services.authentication": {
+            "recommendedVersion": "2.6.0"
+        },
+        "com.unity.services.analytics": {
+            "recommendedVersion": "4.4.0"
+        },
+        "com.unity.services.core": {
+            "recommendedVersion": "1.10.0"
+        },
+        "com.unity.purchasing": {
+            "recommendedVersion": "4.9.3"
+        },
+        "com.unity.services.economy": {
+            "recommendedVersion": "3.1.2"
+        },
+        "com.unity.services.cloudcode": {
+            "recommendedVersion": "2.4.0",
+            "isDiscoverable": true
+        },
+        "com.unity.services.deployment": {
+            "recommendedVersion": "1.1.0",
+            "isDiscoverable": true
+        },
+        "com.unity.services.deployment.api": {
+            "recommendedVersion": "1.0.0"
+        },
+        "com.unity.services.ugc": {
+            "isDiscoverable": true,
+            "recommendedVersion": "1.0.0-pre.10"
+        },
+        "com.unity.services.cloud-diagnostics": {
+            "recommendedVersion": "1.0.6",
+            "isDiscoverable": true
+        },
+        "com.unity.multiplayer.tools": {
+            "recommendedVersion": "2.0.0-pre.2",
+            "isDiscoverable": true
+        },
+        "com.unity.services.multiplay": {
+            "recommendedVersion": "1.0.4",
+            "isDiscoverable": true
+        },
+        "com.unity.services.core-test-utilities": {
+            "recommendedVersion": "1.10.1"
+        }
+    }
+}

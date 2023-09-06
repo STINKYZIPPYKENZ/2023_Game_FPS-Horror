@@ -1,0 +1,43 @@
+{
+  "name": "com.unity.services.cloud-diagnostics",
+  "displayName": "Cloud Diagnostics",
+  "version": "1.0.5",
+  "unity": "2022.1",
+  "description": "This package is a suite of cloud enabled tools that help you collect and identify issues that users encounter with your apps.",
+  "_upm": {
+    "gameService": {
+      "groupIndex": 0,
+      "groupName": "DevOps",
+      "genericDashboardUrl": "https://unity3d.com/unity/features/cloud-diagnostics",
+      "projectDashboardUrl": "https://developer.cloud.unity3d.com/diagnostics/orgs/{0}/projects/{1}/crashes",
+      "projectDashboardUrlType": "OrganizationKeyAndProjectGuid",
+      "configurePath": "Project/Services/Cloud Diagnostics"
+    },
+    "supportedPlatforms": [
+      "Android",
+      "iOS",
+      "Linux",
+      "Mac",
+      "PC",
+      "WebGL",
+      "Windows 8 Universal",
+      "Windows 10 Universal"
+    ],
+    "changelog": "### Modified \n- Adjusted documentation"
+  },
+  "dependencies": {
+    "com.unity.services.core": "1.7.1"
+  },
+  "type": "library",
+  "relatedPackages": {
+    "com.unity.services.cloud-diagnostics.tests": "1.0.5"
+  },
+  "upmCi": {
+    "footprint": "bd0bc5858457dda4f8dd8883625867cb2404d36c"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git",
+    "type": "git",
+    "revision": "fc63a186b7c647f852d24efec83861b1ff6b178e"
+  }
+}
